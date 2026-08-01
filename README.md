@@ -80,7 +80,7 @@ vacuna-registro/
 ### Clonar e instalar
 
 ```bash
-git clone https://github.com/tu-usuario/vacuna-registro.git
+git clone https://github.com/J-Cazz/App-Registro-Vacuna.git
 cd vacuna-registro
 npm install
 ```
